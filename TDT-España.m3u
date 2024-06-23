@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="España" tvg-name="La 1",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="España" tvg-name="La 2",La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/320px-Antena_3_%282017%29.svg.png" group-title="España" tvg-name="Antena 3",Antena 3
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/320px-Cuatro.svg.png" group-title="España" tvg-name="Cuatro",Cuatro
+https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
+
+#EXTINF:-1 tvg-id="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/246px-Telecinco.svg.png" group-title="España" tvg-name="Telecinco",Telecinco
+https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
+
+#EXTINF:-1 tvg-id="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png" group-title="España" tvg-name="La Sexta",La Sexta
+https://livestartover.atresmedia.com/lasexta/master.m3u8
