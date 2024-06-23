@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-name="Alexelcapo" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/78528288-6216-4e21-872b-7f415b602a9a-profile_image-300x300.png" group-title="Twitch"
 https://www.twitch.tv/alexelcapo
+
+#EXTINF:-1 tvg-name="ABC News Albania Ⓣ" tvg-logo="https://i.imgur.com/aObcudw.png" tvg-id="ABCNewsAlbania.al" group-title="Albania",ABC News Albania Ⓣ
+https://www.twitch.tv/abcnewsal
