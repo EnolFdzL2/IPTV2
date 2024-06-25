@@ -1,7 +1,53 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="Winnie The Pooh: Blood and Honey 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTU5MTYyYTAtNDg5Yi00NTc3LWFhMmQtY2VmNzQyZTRiNjJhXkEyXkFqcGdeQXVyMjYwMDA0ODc@._V1_FMjpg_UX1000_.jpg" group-title="Cine con Ester" group-title="Subtituladas" tvg-name="Winnie The Pooh: Blood and Honey 2" ,Winnie The Pooh: Blood and Honey 2
+#EXTINF:0 tvg-id="Winnie The Pooh: Blood and Honey 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTU5MTYyYTAtNDg5Yi00NTc3LWFhMmQtY2VmNzQyZTRiNjJhXkEyXkFqcGdeQXVyMjYwMDA0ODc@._V1_FMjpg_UX1000_.jpg" group-title="Cine con Ester" tvg-name="Winnie The Pooh: Blood and Honey 2" ,Winnie The Pooh: Blood and Honey 2 (Subtitulada)
 https://2448424546.tapecontent.net/radosgw/Vr4wxDbj8KS3zd/DegePC2QYjgwQ3TJqpVfg9wTtnLWltCvhBImmR4LSHhasuuFixbQTcrmPCum3EPKWRRPajyRUz3Y9q5Bqw4Z3wSg5Tp-KWK5N2S7Izpvdsuse4kkeSu9z1A9r-_02QWgbJe3XKrIR2ErcMnxMBHsSnZBAF1RdWrrqGZDM5qFelB4s_npR3I4XmxVphzIQA2GtmIb0-8dFBM90XJbctqs7O293YCNYYv4-ssfzCvmtbzAPVI_rNqsfFuU2N2ukG2CjGY8uTW5HP7yRFnm1uHZNRzFNNwTMSMmf83wScn0smjohTYCGuuDUIy0LYkKgIHkWBT1EEzzpO-AhtcA/269906--7a006336-8257-4a49-bb14-12cffd085457--jrvc--2361962-streamtape.mp4?stream=1
 
-#EXTINF:0 tvg-id="Stopmotion" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTcwMjA2MzctNjU0NC00OWRkLWJlMzMtZDBjNjViZjEyMzgwXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg" group-title="Cine con Ester" group-title="Stopmotion" group-title="Subtituladas" tvg-name="Stopmotion" ,Stopmotion
+#EXTINF:0 tvg-id="Stopmotion" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTcwMjA2MzctNjU0NC00OWRkLWJlMzMtZDBjNjViZjEyMzgwXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg" group-title="Stopmotion" tvg-name="Stopmotion" ,Stopmotion (Subtitulada)
 https://861481236.tapecontent.net/radosgw/QeB3A1bJllCyOy/0RSpFGgcbhhZDmYQ3A_llDSNl6E4_qjdZluKkRPGKEdCkejfHcBth4I19M-mwJ7zg5kCYc0CarPwNXkv57ALy03ArcJ9KfljKaSNW1FHxOX5jEPpfaoTr9d7qresCxkaBKxvIehHPTLzU9Ze6HWP7JBGL1n03xZqcSbep6ws1zJt6UfrmKdFSGAp6fPvZz3perxUcnOkzYPwfeU5q7kg-IYr8aREewsFMJAqdqnqiZusW5G-G3iSN_ucJ2OWtAWWg_cSBs52CNYElk4a3ORVBTkVYrW2CIye0QN5EoyyD97tS73igY1EN2or1tc/248089--772d3928-2815-4757-9e00-ecd4d33105f1--odbb--2178379-streamtape.mp4?stream=1
+
+#EXTINF:0 tvg-id="Coraline" tvg-logo="https://m.media-amazon.com/images/I/81sf6HWzSdL._AC_UF1000,1000_QL80_.jpg" group-title="Stopmotion" tvg-name="Coraline" ,Coraline
+https://stream-8836-107-123.cdnpvd.co/e4ocyrhqmyikkfn2mc5pyicjhvmo6gea7voybdxfnhmtlivgzlofealse4/v.mp4
+
+#EXTINF:0 tvg-id="Isla de perros" tvg-logo="https://pics.filmaffinity.com/Isla_de_perros-696301363-large.jpg" group-title="Stopmotion" tvg-name="Isla de perros" ,Isla de perros
+https://stream-3691-48-220.cdnpvd.co/leohpjxde4ikkfn2mdx76oylek4yyin6lluosh6umrtcdb6ua44mhi5h7a/v.mp4
+
+#EXTINF:0 tvg-id="El principito" tvg-logo="https://es.web.img3.acsta.net/pictures/16/03/14/17/30/369426.jpg" group-title="Stopmotion" tvg-name="El principito" ,El principito
+https://s30.gamovideo.com:444/ffap4cuvb5nv3h2yugd53zsjertnenfcntkb5uzzc5d37p3nps3atshikobq/v.mp4
+
+#EXTINF:0 tvg-id="La vida de Calabacín" tvg-logo="https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/peliculas/la-vida-de-calabacin/124334646-3-esl-ES/La-vida-de-Calabacin.jpg" group-title="Stopmotion" tvg-name="La vida de Calabacín" ,La vida de Calabacín
+https://stream-3991-48-215.cdnpvd.co/lioho2dziyikkfn2mbi74lkjhhglfmhxzpw7h26znytzmympjgkrs7u47m/v.mp4
+
+#EXTINF:0 tvg-id="Fantastic Mr. Fox" tvg-logo="https://www.tallengestore.com/cdn/shop/products/FantasticMrFox-GeorgeClooney-WesAnderson-HollywoodMoviePoster_d2eb09b7-79a9-4bae-a7a6-8706017a5800.jpg?v=1602760202" group-title="Stopmotion" tvg-name="Fantastic Mr. Fox" ,Fantastic Mr. Fox
+https://s28.gamovideo.com:444/fnap4t4idjnv3h2yuhynvzienizgwpegnnpppc4vyxv4wffrjlan7p53t6ma/v.mp4
+
+#EXTINF:0 tvg-id="Los Boxtrolls" tvg-logo="https://pics.filmaffinity.com/Los_Boxtrolls-956881026-large.jpg" group-title="Stopmotion" tvg-name="Los Boxtrolls" ,Los Boxtrolls
+https://s26.gamovideo.com:444/frap5y3emjnv3h2yug25x62xpv4trk6w6rmhkzhxnha43xxvykucpc4z74la/v.mp4
+
+#EXTINF:0 tvg-id="Chicken Run: Evasión en la granja" tvg-logo="https://pics.filmaffinity.com/Chicken_Run_Evasiaon_en_la_granja-297308502-large.jpg" group-title="Stopmotion" tvg-name="Chicken Run: Evasión en la granja" ,Chicken Run: Evasión en la granja
+https://stream-4338-55-56.cdnpvd.co/kyohpxpzeuikkfn2mak7qp2mmxtrzjcg4fxuonkzfaiyc73gtyhxktjydq/v.mp4
+
+#EXTINF:0 tvg-id="Chicken Run: Amanecer de los nuggets" tvg-logo="https://image.tmdb.org/t/p/w500/pZ7KCASUvS0iqsbqqUlKLznVXZk.jpg" group-title="Stopmotion" tvg-name="Chicken Run: Amanecer de los nuggets" ,Chicken Run: Amanecer de los nuggets
+https://s35.gamovideo.com:444/enap5xp6abnv3h2yufy53mqppncqfagbiwttsuugj2rr7obp64ildqxphigq/v.mp4
+
+#EXTINF:0 tvg-id="James y el melocotón gigante" tvg-logo="https://image.tmdb.org/t/p/w500/mArShSmLgt8YQQEyX2V5qLVSoGR.jpg" group-title="Stopmotion" tvg-name="James y el melocotón gigante" ,James y el melocotón gigante
+https://s32.gamovideo.com:444/ezap545wdjnv3h2yuhynvmspm4woni74kmqysbcxaji5tyntskbtwgbarnza/v.mp4
+
+#EXTINF:0 tvg-id="Frankenweenie" tvg-logo="https://image.tmdb.org/t/p/w500/4WZaUjHswR2mak767GEXgiWYxeq.jpg" group-title="Stopmotion" tvg-name="Frankenweenie" ,Frankenweenie
+https://tp23.gamovideo.com:444/f5ap4jgddfnv3h2yuefn34iimwxdvawhayqzemeiepnvckbm5hwvuwhi2eoq/v.mp4
+
+#EXTINF:0 tvg-id="Pesadilla antes de navidad" tvg-logo="https://image.tmdb.org/t/p/w500/fRrhrNBQzsppxOpN8GO1RFIxp6X.jpg" group-title="Stopmotion" tvg-name="Pesadilla antes de navidad" ,Pesadilla antes de navidad
+https://s28.gamovideo.com:444/fnap5ojiabnv3h2yuf3n3zsxmfgjasivsuzt25fwhfuzmlsjldp4zhotn3pq/v.mp4
+
+#EXTINF:0 tvg-id="El alucinante mundo de Norman" tvg-logo="https://image.tmdb.org/t/p/w500/bezAm2iDqShEumdYsGqAjT0CCXE.jpg" group-title="Stopmotion" tvg-name="El alucinante mundo de Norman" ,El alucinante mundo de Norman
+https://stream-4991-212-110.cdnpvd.co/jqohovl7pmikkfn2mdz7yjq5hz6pzh3cxbc27mr756i6q4qrkpiqvunrb4/v.mp4
+
+#EXTINF:0 tvg-id="Mary and Max" tvg-logo="https://image.tmdb.org/t/p/w500/b4LKlquh0ls5Rgb27QLPlkC7Oya.jpg" group-title="Stopmotion" tvg-name="Mary and Max" ,Mary and Max (Subtitulada)
+https://s24.gamovideo.com:444/fzap4s6mcjnv3h2yugonvmyooqbqav3lhs36e2btmxq43scug3f3jcyyklxa/v.mp4
+
+#EXTINF:0 tvg-id="Las aventuras secretas de Tom Thumb" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/18/04/16/11/02/3080855.jpg" group-title="Stopmotion" tvg-name="Las aventuras secretas de Tom Thumb" ,Las aventuras secretas de Tom Thumb (CINE MUDO)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719376464/ei/8EV7Zt6tAdytvdIPn9i3qAE/ip/188.171.1.89/id/9e6c47ba814c5b7b/itag/231/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D322322817%3Bdur%3D3808.800%3Bgir%3Dyes%3Bitag%3D135%3Blmt%3D1424427087895844/rqh/1/hls_chunk_host/rr3---sn-uxaxj5cax-v8ql.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/SW/mm/31,29/mn/sn-uxaxj5cax-v8ql,sn-h5qzen76/ms/au,rdu/mv/m/mvi/3/pl/20/initcwndbps/1543750/vprv/1/playlist_type/DVR/dover/13/mt/1719354302/fvip/2/short_key/1/keepalive/yes/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRAIgC6Xx1F2p7JR8i71fmoz40zY6tepDjYOk7XFEZojP7KcCICavJDYJ7Tn4IFrLkL02fPO0GSq-VQ8x5D6v19jL5uTs/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AHlkHjAwRQIhANEKuMubFOa4v1XXO5r9z4lXqLCFbYaIG3aQpI_NY8V-AiB2audXIzkG3TGRbBu20sDCxVrdAf7sUKRJedDCEqYzpg%3D%3D/playlist/index.m3u8
+
+#EXTINF:0 tvg-id="Cavernícola" tvg-logo="https://image.tmdb.org/t/p/w500/lS3AiC4FrNtGK819OnbtWnmWh1h.jpg" group-title="Stopmotion" tvg-name="Cavernícola" ,Cavernícola
+https://s32.gamovideo.com:444/ezap42jgcjnv3h2yugbnvminoo6rgrud2aeu4zdgjbx5ov35poznyvd7rn3q/v.mp4
+
