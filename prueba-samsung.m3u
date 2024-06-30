@@ -7,7 +7,10 @@ https://str12.vtube.network/hls/x5s47qp7izyki6cgaofmrjftgqmogj5kykiapv5fsirbv5gl
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1719623850/ei/Sgx_ZorbG66IhcIP-qODuAk/ip/188.171.1.89/id/ac53e48101ed4b8e/itag/312/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D7543448101%3Bdur%3D21572.998%3Bgir%3Dyes%3Bitag%3D299%3Blmt%3D1715127417714469/rqh/1/hls_chunk_host/rr3---sn-uxaxj5cax-v8ql.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/Jd/mm/31,29/mn/sn-uxaxj5cax-v8ql,sn-h5q7knee/ms/au,rdu/mv/m/mvi/3/pl/20/initcwndbps/1416250/vprv/1/playlist_type/DVR/dover/13/txp/5535434/mt/1719601729/fvip/2/short_key/1/keepalive/yes/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRQIgb5XQ0xwwSvfoDmNsxPfo3foM_1BYEt0Zy7bc2K3AL_0CIQDjhrt50LYNVXq1SVTwRbsikk6sVvvxRH3nIRltpchZlg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AHlkHjAwRAIgTok016DPRE1fbGrtLP7i3pZ9s6EjVKn4ILa3NSXeE6kCIGd2gcy-hm6A9ynWizuNLJIopHeC-h_1Y8D5_ob3FVma/playlist/index.m3u8
 
 #EXTINF:-1 ,Winnie
-https://powvideo.org/embed-me13prigg39t-954x562.html
+tvonlineuniv://https://powvideo.org/embed-me13prigg39t-954x562.html
 
 #EXTINF:-1 ,Winnie 2
-https://powvideo.org/me13prigg39t
+tvonlineuniv://https://powvideo.org/me13prigg39t
+
+#EXTINF:-1 ,Winnie 3
+stream-4291-31-166.cdnpvd.co/k4ohohsxbiikkfn2mdwpqoi2mugzcjm3vjhqm3zyjs6cur7vzaoxnydetq/v.mp4
