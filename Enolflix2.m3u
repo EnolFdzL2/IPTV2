@@ -1,4 +1,4 @@
 #EXTM3U 
 
-#EXTINF:0 tvg-id="Winnie The Pooh: Blood and Honey 22" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTU5MTYyYTAtNDg5Yi00NTc3LWFhMmQtY2VmNzQyZTRiNjJhXkEyXkFqcGdeQXVyMjYwMDA0ODc@._V1_FMjpg_UX1000_.jpg" group-title="Cine con Ester" tvg-name="Winnie The Pooh: Blood and Honey 2" ,Winnie The Pooh: Blood and Honey 2 (Subtitulada) 
-https://str12.vtube.network/hls/,x5s47qp7izyki6cgaofmrjftgqmogj5kykiapv5fsirbuv55abzex2ubp7va,.urlset/master.m3u8
+#EXTINF:0 tvg-id="La mesita del comedor" tvg-name="La mesita del comedor"
+https://str13.vtube.network/hls/x5s43xedifyki6cgapb4rlxrng7pdmpletogovdbbl454kou5uotkkuke5pq/index-v1-a1.m3u8
